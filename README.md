@@ -3,7 +3,8 @@
 This guide explains how to deploy a **Django Weather Application** on an **AWS EC2 (Ubuntu 22.04)** instance using **Gunicorn** and **Nginx**.
 
 ---
-
+# Web App running at server
+(Screenshot(49).png)
 ## Architecture Overview
 
 ```
