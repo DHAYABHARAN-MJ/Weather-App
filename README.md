@@ -4,7 +4,7 @@ This guide explains how to deploy a **Django Weather Application** on an **AWS E
 
 ---
 # Web App running at server
-(Screenshot(49).png)
+![Web App Screenshot](Screenshot(49).png)
 ## Architecture Overview
 
 ```
