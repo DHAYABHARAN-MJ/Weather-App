@@ -4,7 +4,7 @@ from .models import SearchHistory
 
 API_KEY = "5af122df4e0a14100dbb6927c74e074b"
 
-def index(request):
+def index(request): 
     weather = None
     error = None
     recent_searches = SearchHistory.objects.order_by('-searched_at')[:5]  # last 5 searches
